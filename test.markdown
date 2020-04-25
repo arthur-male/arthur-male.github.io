@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: test
+permalink: /test/
 ---
 
 # this is what i think should work
