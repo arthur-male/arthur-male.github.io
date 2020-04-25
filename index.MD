@@ -4,12 +4,7 @@
 <details>
   <summary>Click to expand!</summary>
   
-  ### Maths
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-  ### English
+  ## Heading
   1. A numbered
   2. list
      * With some
